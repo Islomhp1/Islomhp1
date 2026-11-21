@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Salom, men Islom Boboqulov 👋</h1>
 
-<!--
-**Islomhp1/Islomhp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Junior frontend dasturchi</b> — HTML, CSS va JavaScript asosida toza, tez va qulay interfeyslar yaratishni o'rganyapman.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Men haqimda
+
+- 🎯 Frontend yo'nalishida rivojlanyapman, hozircha **junior (o'rganuvchi)** darajadaman
+- 📚 6 oydan ortiq vaqtdan beri HTML, CSS va JavaScript o'rganaman
+- ⚛️ Hozir **React**ni o'rganyapman — komponentlar, props va state bilan ishlash
+- 💡 Maqsadim: har bir loyihada oldingisidan tozaroq va tushunarli kod yozish
+- 🧩 Kichik amaliy loyihalar orqali bilimni mustahkamlayman
+
+---
+
+## 🛠️ Texnologiyalar
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-o'rganyapman-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React — o'rganyapman" />
+</p>
+
+| Texnologiya | Holat |
+|---|---|
+| HTML5 | Ishlayman — asosiy |
+| CSS3 | Ishlayman — asosiy (Flexbox, Grid, responsive) |
+| JavaScript | Ishlayman — o'rganish davom etmoqda |
+| React | O'rganyapman — boshlang'ich daraja |
+
+---
+
+## 🚀 Hozir nima bilan bandman
+
+- ⚛️ **React**ni o'rganish: komponentlar, `props`, `state` va komponentlar orasida ma'lumot uzatish
+- 🧠 JavaScript bilimini mustahkamlash: funksiyalar, massivlar, DOM bilan ishlash
+- 🛒 Amaliy loyihalar ustida ishlash: onlayn do'kon sahifasi, brauzer o'yinlari va kichik UI komponentlar
+- 🎨 CSS animatsiyalar va responsive dizayn ko'nikmalarini oshirish
+
+---
+
+## 📊 GitHub statistikam
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Islomhp1&show_icons=true&locale=en&theme=default" alt="Islomhp1 GitHub statistikasi" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islomhp1&layout=compact&locale=en&theme=default" alt="Eng ko'p ishlatiladigan tillar" />
+</p>
+
+---
+
+## 📫 Bog'lanish
+
+Hozircha men bilan faqat GitHub orqali bog'lanishingiz mumkin:
+
+[![GitHub](https://img.shields.io/badge/GitHub-Islomhp1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Islomhp1)
+
+---
+
+<p align="center"><i>Har kuni kichik bo'lsa ham bir qadam oldinga. 🚀</i></p>
