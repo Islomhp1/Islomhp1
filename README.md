@@ -43,12 +43,7 @@
 
 ---
 
-## 📊 GitHub statistikam
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Islomhp1&show_icons=true&locale=en&theme=default" alt="Islomhp1 GitHub statistikasi" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islomhp1&layout=compact&locale=en&theme=default" alt="Eng ko'p ishlatiladigan tillar" />
-</p>
 
 ---
 
