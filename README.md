@@ -34,12 +34,7 @@
 
 ---
 
-## 🚀 Hozir nima bilan bandman
 
-- ⚛️ **React**ni o'rganish: komponentlar, `props`, `state` va komponentlar orasida ma'lumot uzatish
-- 🧠 JavaScript bilimini mustahkamlash: funksiyalar, massivlar, DOM bilan ishlash
-- 🛒 Amaliy loyihalar ustida ishlash: onlayn do'kon sahifasi, brauzer o'yinlari va kichik UI komponentlar
-- 🎨 CSS animatsiyalar va responsive dizayn ko'nikmalarini oshirish
 
 ---
 
